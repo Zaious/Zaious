@@ -28,10 +28,21 @@
 
 ## What I'm building
 
-**ChronicleCore** — a governance-first multi-agent system I run daily: 39 specialist agents under a
-five-pillar governance model (strategy / intelligence / aesthetics / execution / defence), with MCP as the
-hard boundary between LLM reasoning and tool execution. The operating experience became a peer-reviewed
-framework — see *Research* below. The whitepaper is public; the system itself is private.
+Three private systems. None of them is on GitHub; what they produce is — each line ends with the public
+evidence you can actually open.
+
+**ChronicleCore** — the whole thing: a governance-first multi-agent system I run daily, 39 specialist agents
+under a five-pillar governance model (strategy / intelligence / aesthetics / execution / defence), with MCP as
+the hard boundary between LLM reasoning and tool execution. Everything below runs inside it.
+→ [architecture whitepaper](https://github.com/Zaious/ChronicleCore-Architecture) · [ASAF, the framework the operating experience became](https://doi.org/10.3389/fcomp.2026.1860996)
+
+**Chronicle-Ark** — the multi-agent IDE the agents actually live in, including the *paper room* where research
+gets written under explicit AI disclosure: core ideas from the human, execution delegated, boundary stated on
+the page. → every paper and preprint under *Research* · [riftbound-chronicle](https://github.com/Zaious/riftbound-chronicle) was built there
+
+**sovereign-dossier → biography** — a single source of truth for my own facts (roles, projects, papers, with
+provenance and visibility rules), exported as a brief for agents and as a résumé pipeline, both over MCP.
+→ every number and status on this page is derived from it, not typed in
 
 [![ChronicleCore-Architecture](https://img.shields.io/github/stars/Zaious/ChronicleCore-Architecture?style=flat&label=ChronicleCore-Architecture%20%E2%98%85)](https://github.com/Zaious/ChronicleCore-Architecture)
 
