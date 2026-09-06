@@ -88,7 +88,7 @@ peer review with that disclosure on the page.
 - **2016** — founded and moderated PTT's VR board the year the first Vive shipped; first individual member of Taiwan's VR/AR industry association (TAVAR).
 - **2022** — founded PTT's AI_Art board the year ChatGPT launched, writing and enforcing the rules for generated content before any platform had them.
 - **2023–** — generative-AI solutions consultant at dentsu Taiwan: 5+ enterprise PoCs, an AI-literacy programme for 1,000+ staff, government-approved lecturer under Taiwan's SME digital-transformation schemes.
-- **2026–** — CTO at Lumo, an elder-care AIoT startup; the long-term-care papers above come from that line.
+- **2026–** — [CTO at Lumo](https://lumo-link.com/team), an elder-care AIoT startup; the long-term-care papers above come from that line.
 
 <!-- Optional stats card; remove if you'd rather keep the page static:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Zaious&show_icons=true&hide_title=true&hide_rank=true" alt="GitHub stats" /></p>
