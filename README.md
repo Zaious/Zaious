@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://zaious.dev">zaious.dev</a> ·
-  <a href="https://www.linkedin.com/in/zaious-lee">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/zaious">LinkedIn</a> ·
   <a href="https://orcid.org/0009-0007-1685-0877">ORCID</a> ·
   <a href="https://scholar.google.com/citations?user=PksCWTMAAAAJ">Google Scholar</a>
 </p>
