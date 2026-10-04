@@ -17,6 +17,7 @@
 
 <p align="center">
   <a href="https://zaious.dev">zaious.dev</a> ·
+  <a href="https://studio.chroniclecore.com">ChronicleCore Studio</a> ·
   <a href="https://www.linkedin.com/in/zaious">LinkedIn</a> ·
   <a href="https://orcid.org/0009-0007-1685-0877">ORCID</a> ·
   <a href="https://scholar.google.com/citations?user=PksCWTMAAAAJ">Google Scholar</a>
@@ -32,7 +33,7 @@ Three private systems. None of them is on GitHub; what they produce is — each 
 evidence you can actually open.
 
 **ChronicleCore** — the whole thing: a governance-first multi-agent system I run daily, 39 specialist agents
-under a five-pillar governance model (strategy / intelligence / aesthetics / execution / defence), with MCP as
+in five departments (Core / Shield / Hands / Soul / Senses, per the public roster v3.0), with MCP as
 the hard boundary between LLM reasoning and tool execution. Everything below runs inside it.
 → [architecture whitepaper](https://github.com/Zaious/ChronicleCore-Architecture) · [ASAF, the framework the operating experience became](https://doi.org/10.3389/fcomp.2026.1860996)
 
@@ -60,11 +61,14 @@ provenance and visibility rules), exported as a brief for agents and as a résum
 
 ## Things people actually use
 
-- **[Riftbound 編年史](https://riftbound.chroniclecore.com/)** — Taiwan's player intelligence site for the Riftbound TCG. 8–10k page views a day, ~1,150 daily clicks from search, most content drafted by an agent skill and curated by hand.
+Built and run under my studio, [ChronicleCore Studio (編年史記工作室)](https://studio.chroniclecore.com).
+
+- **[Riftbound 編年史](https://riftbound.chroniclecore.com/)** — Taiwan's player intelligence site for the Riftbound TCG. 3.7–4.6k page views a day (2026-09), 640–970 daily clicks from search (2026-09), most content drafted by an agent skill and curated by hand.
 - **[Riftbound Agent](https://riftbound-agent.chroniclecore.com/)** — the rules-engine side of the same project as a free tool: card database with full rules text, deck builder with import and legality checking; rules assistant and deck coaching next. Built on riftbound-chronicle above, not on a chatbot.
 - **[SummonLibrary 喚書者](https://summonlibrary.chroniclecore.com)** — book search across Taiwanese second-hand inventories, with an MCP server.
 - **[AChanGer 朱藏](https://achanger.chroniclecore.com)** — anime merch intel and card-exchange tool.
 - **[Journal Atlas](https://journal-atlas.chroniclecore.com)** — the hosted version of the submission advisor above.
+- **[KoreaCare 韓妝原價雷達](https://koreacare.chroniclecore.com)** — snap an influencer ad or a package, find the original Korean product, and see how the advertised price compares with live Korean retail prices.
 
 ## Research
 
