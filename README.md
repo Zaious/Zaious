@@ -54,6 +54,9 @@ provenance and visibility rules), exported as a brief for agents and as a résum
 | **[Antigravity: Skills Chronicle](https://github.com/Zaious/Antigravity-Skills-Chronicle)** | VS Code extension — a visual dashboard for managing AI-agent skills. | ![stars](https://img.shields.io/github/stars/Zaious/Antigravity-Skills-Chronicle?style=flat) ![downloads](https://img.shields.io/open-vsx/dt/ChronicleCore/antigravity-skills-chronicle?style=flat&label=Open%20VSX) |
 | **[translate-academic-paper](https://github.com/Zaious/translate-academic-paper)** | Turns a paper PDF into a self-contained bilingual HTML (original / 中文 / side-by-side), with OCR fallback and a verified glossary. | ![stars](https://img.shields.io/github/stars/Zaious/translate-academic-paper?style=flat) |
 | **[journal-atlas](https://github.com/Zaious/journal-atlas)** | Submission advisor that reasons over real journal metadata (399 curated entries) instead of model recall. Also an agent skill. | ![stars](https://img.shields.io/github/stars/Zaious/journal-atlas?style=flat) |
+| **[jev-capability-atlas](https://github.com/Zaious/jev-capability-atlas)** | Bilingual capability map of TypeSafe's Jev: where a calibrated, narrow-decision model holds up and where it breaks, built on real API receipts. Independent, not sponsored by TypeSafe. | ![stars](https://img.shields.io/github/stars/Zaious/jev-capability-atlas?style=flat) |
+| **[basesmall](https://github.com/Zaious/basesmall)** | Desktop app that keeps your team's MLB game in a corner of the screen: runners, the count, every pitch, the score. Unofficial. [Download](https://basesmall.chroniclecore.com) | ![stars](https://img.shields.io/github/stars/Zaious/basesmall?style=flat) |
+| **[JevTRPG](https://github.com/Zaious/JevTRPG)** | Paste a résumé, get a 1920s d100 investigator sheet; every skill is one scored question to Jev, and nothing you paste is stored. Unofficial. [Live](https://jevtrpg.chroniclecore.com/?lang=en) | ![stars](https://img.shields.io/github/stars/Zaious/JevTRPG?style=flat) |
 | **[PhilosopherAtlas](https://github.com/Zaious/PhilosopherAtlas)** | Interactive map of 235 philosophers across history and cultures, bilingual. [Live](https://philosopheratlas.chroniclecore.com/) | ![stars](https://img.shields.io/github/stars/Zaious/PhilosopherAtlas?style=flat) |
 | **[riftbound-chronicle](https://github.com/Zaious/riftbound-chronicle)** | Preparation-phase AI for the Riftbound TCG — deck coach, cited rules consult, and a human-confirmed Player 2 agent — on a sovereign rules core that fails closed on anything it can't model. Not a simulator, not a judge. [Live](https://riftbound-agent.chroniclecore.com/) | ![stars](https://img.shields.io/github/stars/Zaious/riftbound-chronicle?style=flat) |
 | **[Taiwan.md](https://github.com/frank890417/taiwan-md)** | Open-source curated knowledge base about Taiwan for LLMs — collaborator (31 commits upstream). [taiwan.md](https://taiwan.md) | |
@@ -69,6 +72,8 @@ Built and run under my studio, [ChronicleCore Studio (編年史記工作室)](ht
 - **[AChanGer 朱藏](https://achanger.chroniclecore.com)** — anime merch intel and card-exchange tool.
 - **[Journal Atlas](https://journal-atlas.chroniclecore.com)** — the hosted version of the submission advisor above.
 - **[KoreaCare 韓妝原價雷達](https://koreacare.chroniclecore.com)** — snap an influencer ad or a package, find the original Korean product, and see how the advertised price compares with live Korean retail prices.
+- **[Basesmall](https://basesmall.chroniclecore.com)** — follow your MLB team from a tiny always-on-top window; free and open source, Windows first.
+- **[JevTRPG](https://jevtrpg.chroniclecore.com/?lang=en)** — a résumé read into a tabletop investigator sheet, in English, 繁體中文 and 日本語.
 
 ## Research
 
@@ -77,6 +82,7 @@ axis, a sociology-of-interaction axis (agents as social actors), and a psycholog
 deploy, and live inside the systems, then write the theory and check it against them.
 
 - **Agentic Social Affordance Framework (ASAF)** — *Frontiers in Computer Science* (Human-Media Interaction), 2026. Agent identity design as the collaboration interface in multi-agent systems. [doi:10.3389/fcomp.2026.1860996](https://doi.org/10.3389/fcomp.2026.1860996)
+- **Journal Atlas: Venue Fit Scoring Under Incomplete Evidence, and the Corpus Method It Requires** — *JCDL 2026*, Posters & Demonstrations (accepted). The paper behind the journal-atlas repo above.
 - **Toward a Philosophy of Interaction** — preprint, Zenodo. [doi:10.5281/zenodo.21225988](https://doi.org/10.5281/zenodo.21225988)
 - **Idiosyncratic Cognitive Amplification** — preprint, Zenodo. [doi:10.5281/zenodo.20436631](https://doi.org/10.5281/zenodo.20436631)
 - **Before "How to Use It": Locating Generative AI in the Teaching-Learning Structure** — preprint, SSRN, co-authored with a philosopher of education. [doi:10.2139/ssrn.7278438](https://doi.org/10.2139/ssrn.7278438)
