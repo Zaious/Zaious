@@ -43,7 +43,7 @@ the page. → every paper and preprint under *Research* · [riftbound-chronicle]
 
 **sovereign-dossier → biography** — a single source of truth for my own facts (roles, projects, papers, with
 provenance and visibility rules), exported as a brief for agents and as a résumé pipeline, both over MCP.
-→ every number and status on this page is derived from it, not typed in
+→ every number and status on this page is checked against it before it goes up
 
 [![ChronicleCore-Architecture](https://img.shields.io/github/stars/Zaious/ChronicleCore-Architecture?style=flat&label=ChronicleCore-Architecture%20%E2%98%85)](https://github.com/Zaious/ChronicleCore-Architecture)
 
