@@ -56,7 +56,7 @@ provenance and visibility rules), exported as a brief for agents and as a résum
 | **[journal-atlas](https://github.com/Zaious/journal-atlas)** | Submission advisor that reasons over real journal metadata (399 curated entries) instead of model recall. Also an agent skill. | ![stars](https://img.shields.io/github/stars/Zaious/journal-atlas?style=flat) |
 | **[PhilosopherAtlas](https://github.com/Zaious/PhilosopherAtlas)** | Interactive map of 235 philosophers across history and cultures, bilingual. [Live](https://philosopheratlas.chroniclecore.com/) | ![stars](https://img.shields.io/github/stars/Zaious/PhilosopherAtlas?style=flat) |
 | **[riftbound-chronicle](https://github.com/Zaious/riftbound-chronicle)** | Preparation-phase AI for the Riftbound TCG — deck coach, cited rules consult, and a human-confirmed Player 2 agent — on a sovereign rules core that fails closed on anything it can't model. Not a simulator, not a judge. [Live](https://riftbound-agent.chroniclecore.com/) | ![stars](https://img.shields.io/github/stars/Zaious/riftbound-chronicle?style=flat) |
-| **[Taiwan.md](https://github.com/frank890417/taiwan-md)** | Open-source curated knowledge base about Taiwan for LLMs — I took part as a collaborator in 2026-03 – 05 (31 commits). [taiwan.md](https://taiwan.md) | |
+| **[Taiwan.md](https://github.com/frank890417/taiwan-md)** | Open-source curated knowledge base about Taiwan for LLMs — collaborator (31 commits upstream). [taiwan.md](https://taiwan.md) | |
 | **[PTT-Alertor-Discord](https://github.com/Zaious/PTT-Alertor-Discord)** | Discord bot that watches PTT boards for keywords and posts rich embeds. | ![stars](https://img.shields.io/github/stars/Zaious/PTT-Alertor-Discord?style=flat) |
 
 ## Things people actually use
