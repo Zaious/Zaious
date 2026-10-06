@@ -6,6 +6,8 @@
   Ruling 2026-09-05: kinkref.org is NOT listed here — the ZAIOUS (Tier 2) profile must not link to Tier 3
   (dossier OPSEC_PSEUDONYMITY §1). Do not add it back even though the public dossier view carries the project.
   GitHub bio (settings page, owner-only) agreed 2026-09-05: "Building agent governance for multi-agent systems."
+  Buy Me a Coffee link: ruled 2026-10-06 to appear here and on the free open-source projects only — not on zaious.dev,
+  the studio site or the résumé (dossier areas/identity/PUBLIC_LINKS.md). Change that file first, then this line.
 -->
 
 <h1 align="center">Zaious · Meng-Han (Martin) Lee</h1>
@@ -20,7 +22,8 @@
   <a href="https://studio.chroniclecore.com">ChronicleCore Studio</a> ·
   <a href="https://www.linkedin.com/in/zaious">LinkedIn</a> ·
   <a href="https://orcid.org/0009-0007-1685-0877">ORCID</a> ·
-  <a href="https://scholar.google.com/citations?user=PksCWTMAAAAJ">Google Scholar</a>
+  <a href="https://scholar.google.com/citations?user=PksCWTMAAAAJ">Google Scholar</a> ·
+  <a href="https://buymeacoffee.com/zaious">☕ Buy me a coffee</a>
 </p>
 
 > *Information flows endlessly. Chronicle anchors what matters.*
